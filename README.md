@@ -109,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Matheus Maia Alvarez</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:williampatriciodosantos28@gnmail.com)
+[![Gmail Badge]([https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox))](mailto:williampatriciodosantos28@gnmail.com)
 
 ---
 
