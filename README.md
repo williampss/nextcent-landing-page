@@ -105,7 +105,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
+<a href="https://www.linkedin.com/in/william-patricio-dos-santos-170749250">
 Matheus Maia Alvarez</a>
  <br />
  
@@ -120,5 +120,5 @@ Matheus Maia Alvarez</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://www.linkedin.com/in/william-patricio-dos-santos-170749250)
 
