@@ -109,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Matheus Maia Alvarez</a>
  <br />
  
-[![Gmail Badge]([https://img.shields.io/badge/-williampatriciodosantos28@gnmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williampatriciodosantos28@gnmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox))](mailto:williampatriciodosantos28@gnmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-williampatriciodosantos28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williampatriciodosantos28@gmail.com)](williampatriciodosantos28@gmail.com)
 
 ---
 
@@ -120,5 +120,5 @@ Matheus Maia Alvarez</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://www.linkedin.com/in/william-patricio-dos-santos-170749250/)
+Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
 
