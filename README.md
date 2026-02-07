@@ -111,14 +111,3 @@ William Patricio</a>
  
 [![Gmail Badge](https://img.shields.io/badge/-williampatriciodosantos28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williampatriciodosantos28@gmail.com)](williampatriciodosantos28@gmail.com)
 
----
-
-<!-- ---------------------------------------------------------------------- -->
-
-<!-- MODELO DE LICENÇA -->
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://www.linkedin.com/in/william-patricio-dos-santos-170749250)
-
